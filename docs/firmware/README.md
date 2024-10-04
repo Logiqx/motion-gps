@@ -173,9 +173,17 @@ GPX fixes - back to 1.0
 
 Version shipped with motion-470.
 
-#### 
+
 
 ### Custom
+
+#### Mini-Motion-9009 (2024-10-04)
+
+Based on 3232 release.
+
+Includes some additional Motion identifiers.
+
+
 
 #### Mini-Motion-9008 (2024-07-27)
 
@@ -248,5 +256,4 @@ Minis that are WSW on firmware 9000 Weymouth (so far these are only 470, 619, 62
 - kn speed
 - km distance
 - 500m last, 500m best, 250m last, 250m best speed blinkers with 0 subtraction so 26kn = 2 red + 6 green blinks
-
 
