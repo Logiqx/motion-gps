@@ -177,6 +177,14 @@ Version shipped with motion-470.
 
 ### Custom
 
+#### Mini-Motion-9010 (2024-10-04)
+
+Based on 3232 release.
+
+Includes some additional Motion identifiers (2023 devices).
+
+
+
 #### Mini-Motion-9009 (2024-10-04)
 
 Based on 3232 release.
